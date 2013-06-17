@@ -1,0 +1,10 @@
+{
+    "name": "nivo",
+    "description": "Nivo slider packaged for meteor.",
+    "homepage": "https://github.com/kidovate/meteor-nivo",
+    "author": "Christian Stewart",
+    "version": "0.1.0",
+    "git": "https://github.com/kidovate/meteor-nivo.git",
+    "packages": {
+    }
+}
