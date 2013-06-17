@@ -5,7 +5,7 @@ Package.describe({
 Package.on_use(function (api) {
     api.use('jquery', 'client');
     api.add_files([
-        'lib/jquery.nivo.slider.js',
+        'lib/jquery.nivo.slider.pack.js',
         'lib/nivo-slider.css',
         'lib/themes/bar/bar.css',
         'lib/themes/bar/arrows.png',
